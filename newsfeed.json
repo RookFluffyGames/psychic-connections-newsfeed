@@ -1,6 +1,10 @@
 {
   "news": [
     {
+      "date": "2021-05-01",
+      "content": "Update 0.6 is out! You can get it directly on itch.io {a=https://rookfluffy.itch.io/psychic-connections}here{/a}.\n\nThe 0.6 update contains NSFW content, so Psychic Connections will stop showing up on itch.io's search page unless you have an account with NSFW mode turned on. At any case, you can always access the game page directly from the link, or the itch.io button located in the top left corner of the main menu.\n\nWe hope you enjoy this 0.6 update!"
+    },
+    {
       "date": "2021-04-02",
       "content": "Hello there! This is Psychic Connections' newsfeed. You can keep up to date with the latest news here.\n\nAnd for this first news, we'd like to announce that Psychic Connections is going NSFW on the next build! That means we'll have to flag it as such on itch.io, and it'll stop showing up on the search results there unless you're logged in with an account AND have \"suggestive games\" turned on in the settings. You can still access the game directly by the itch.io page without an account. We added a button that takes you to the itch.io page of the game on the main menu as well for your convenience. Alternatively, you can also bookmark the itch.io page, or even access it from Google by searching for \"psychic connections vn\". So with all that said, make sure you don't miss the next build!"
     }
